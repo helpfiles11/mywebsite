@@ -1,0 +1,12 @@
+site_name: Universe and you
+nav:
+  - Home: 'index.md'
+  - Contact: 'tab2.md'
+  - Resources: 'tab3.md'
+  
+theme: 
+  name: mkdocs
+  color_mode: light
+  nav_style: dark
+  locale: en
+
