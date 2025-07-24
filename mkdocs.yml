@@ -3,9 +3,9 @@ nav:
   - Home: 'index.md'
   - Contact: 'tab2.md'
   - Resources: 'tab3.md'
-  
+
 theme: 
-  name: mkdocs
+  name: readthedocs
   color_mode: light
   nav_style: dark
   locale: en
