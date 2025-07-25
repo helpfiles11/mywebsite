@@ -9,4 +9,7 @@ theme:
   color_mode: light
   nav_style: dark
   locale: en
+  analytics: null
+  anonymize_ip: true
+  logo:
 
