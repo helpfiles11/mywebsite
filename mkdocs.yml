@@ -1,8 +1,8 @@
 site_name: Universe and you
 nav:
   - Home: 'index.md'
-  - Contact: 'tab2.md'
-  - Resources: 'tab3.md'
+  - Contact: 'contact.md'
+  - Resources: 'ressourc.md'
 
 theme: 
   name: readthedocs
